@@ -23,18 +23,22 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: [
           Category(
+            onTap: () {},
             title: 'Numbers',
             color: const Color(0xffEF9235),
           ),
           Category(
+            onTap: () {},
             title: "FamilyMembers",
             color: const Color(0xff558B37),
           ),
           Category(
+            onTap: () {},
             title: "colors",
             color: const Color(0xff50ADC7),
           ),
           Category(
+            onTap: () {},
             title: "phrases",
             color: const Color(0xff79359F),
           )
