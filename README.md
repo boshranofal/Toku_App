@@ -13,8 +13,8 @@ A simple cross-platform mobile application developed with Flutter for both Andro
 - User-friendly interface designed to provide a fun and interactive learning experience.
 
 
-![image](https://github.com/user-attachments/assets/192374a3-eada-4789-bcda-ebbb3dc44d02)
-![image](https://github.com/user-attachments/assets/d3f03267-61f1-4b57-a63d-53a235535e43)
 
+
+![Screenshot 2024-07-23 220452 (1)](https://github.com/user-attachments/assets/e29e2432-5508-4e92-abc6-3829f3eefff6)
 
 
