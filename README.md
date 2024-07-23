@@ -16,3 +16,4 @@ A simple cross-platform mobile application developed with Flutter for both Andro
 
 ![Screenshot 2024-07-23 220846](https://github.com/user-attachments/assets/2758004d-7f20-44c0-8cba-2c8e9bbfce3e)
 
+![Screenshot 2024-07-23 222132](https://github.com/user-attachments/assets/85af5212-fee6-4865-a429-246cdf0e4d05)
