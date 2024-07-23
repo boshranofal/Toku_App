@@ -22,7 +22,7 @@ class Category extends StatelessWidget {
         color: color,
         child: Text(
           title!,
-          style: TextStyle(fontSize: 20, color: Colors.white),
+          style: const TextStyle(fontSize: 20, color: Colors.white),
         ),
       ),
     );
